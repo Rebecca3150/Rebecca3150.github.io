@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "李慧的个人主页"
+description: "个人主页"
 
 # Build settings
 markdown: kramdown
@@ -20,10 +20,10 @@ resume_contact_email:           "15732157372@163.com"
 resume_contact_telephone:       "15732157372"
 resume_contact_address:         "石家庄铁道大学"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "石家庄铁道大学 • 15732157372 • m15732157372@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>self自我介绍</p>"
+resume_header_intro: "<p>本科，今年大四，参加过相关软件大赛，包括创新创业、大学生软件设计大赛，并在大三考取了中级软件设计师，学习成绩还不错，获得过几次三好学生、优秀团员等称号，个人对于C#项目和Android项目是非常感兴趣的。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +50,7 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://Rebecca3150.github.io"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
