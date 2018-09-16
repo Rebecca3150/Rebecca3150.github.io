@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "李慧"
-resume_title:                   "联系方式"
+resume_title:                   "简单的自我介绍"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "15732157372@163.com"
@@ -33,6 +33,7 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
+resume_section_info:            true
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
