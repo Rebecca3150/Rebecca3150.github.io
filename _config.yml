@@ -23,12 +23,12 @@ resume_contact_address:         "石家庄铁道大学"
 resume_header_contact_info:     "石家庄铁道大学 • 15732157372 • m15732157372@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>姓名：李慧 &nbsp;&nbsp;&nbsp;&nbsp; 性别：女</p>
-<p>出生日期：1997-06-21 &nbsp;&nbsp;&nbsp;&nbsp; 户籍：河南</p>
-<p>学历：本科 &nbsp;&nbsp;&nbsp;&nbsp; 专业：软件工程</p>
-<p>联系电话：15732157372 &nbsp;&nbsp;&nbsp;&nbsp; 电子邮箱：m15732157372@163.com</p>
-<p>应聘职位：JAVA程序员 &nbsp;&nbsp;&nbsp;&nbsp;理想城市：江苏 </p>
-<p>兴趣爱好：排球，剪辑，电子琴 &nbsp;&nbsp;&nbsp;&nbsp; 自我评价：踏实勤干</p>
+resume_header_intro: "<p>姓名：李慧 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 性别：女</p>
+<p>出生日期：1997-06-21 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 户籍：河南</p>
+<p>学历：本科 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 专业：软件工程</p>
+<p>联系电话：15732157372 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 电子邮箱：m15732157372@163.com</p>
+<p>应聘职位：JAVA程序员 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;理想城市：江苏 </p>
+<p>兴趣爱好：排球，剪辑，电子琴 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;自我评价：踏实勤干</p>
 <p>自我总结：本科，今年大四，参加过相关软件大赛，包括创新创业、大学生软件设计大赛，并在大三考取了中级软件设计师，学习成绩还不错，获得过几次三好学生、优秀团员等称号，个人对于C#项目和Android项目是非常感兴趣的。</p>"
 
 # use "yes" to display the email contact button,
